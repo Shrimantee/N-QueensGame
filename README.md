@@ -40,5 +40,6 @@ Clone or download the project open it with Android Studio compile and run it wil
 
 # Credits
 https://www.geeksforgeeks.org/java-program-for-n-queen-problem-backtracking-3/
+
 https://en.wikipedia.org/wiki/Eight_queens_puzzle
 
